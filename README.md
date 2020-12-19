@@ -8,15 +8,6 @@
 	  />
   </a>
 
-  <a href="https://blog.abdoulmouctard.com" target="_blank">
-  	<img
-	  src='./icons/blog.svg'
-	  alt="Blog 💥 Mouctar DIALLO • Software Engineer"
-	  title="Blog 💥 Mouctar DIALLO • Software Engineer"
-	  height='55px'
-	  />
-  </a>
-
   <a href="https://linkedin.com/in/abdoulmouctard" target="_blank">
   	<img
 	  src='./icons/linkedin.svg'
