@@ -1,38 +1,31 @@
-<p align="center" style="background-color: white; border-radius: 7px; padding: 5px; display: flex; justify-content: space-around; background: linear-gradient(90deg, rgba(247,131,104,1) 0%, rgba(224,113,31,1) 100%); width: 100vw; max-width: 900px; min-width: 600px; margin: 0 auto; margin-top: 100px; margin-bottom: 100px; border: 2px solid #F9C8B4; border-radius: 7px;">
-  <a href="https://abdoulmouctard.com" target="_blank">
-  	<img
-	  src='./icons/me.svg'
-	  alt="✌️✌️ Mouctar DIALLO • Software Engineer"
-	  title="✌️✌️ Mouctar DIALLO • Software Engineer"
-	  height='55px'
-	  />
-  </a>
+# Hello world 👋
 
-  <a href="https://linkedin.com/in/abdoulmouctard" target="_blank">
-  	<img
-	  src='./icons/linkedin.svg'
-	  alt="Linkedin 🤺 Mouctar DIALLO • Software Engineer"
-	  title="Linkedin 🤺 Mouctar DIALLO • Software Engineer"
-	  height='55px'
-	  />
-  </a>
 
-  <a href="https://twitter.com/abdoulmouctard" target="_blank">
-  	<img
-	  src='./icons/twitter.svg'
-	  alt="Twitter ⚡️ Mouctar DIALLO • Software Engineer"
-	  title="Twitter ⚡️ Mouctar DIALLO • Software Engineer"
-	  height='55px'
-	  />
-  </a>
+## Projects I am working on
+- ⚡ [@yazida-io](https://www.github.com/yazida-io)
 
-  <a href="https://instagram.com/abdoulmouctard" target="_blank">
-  	<img
-	  src='./icons/instagram.svg'
-	  alt="Instagram 😍 Mouctar DIALLO • Software Engineer"
-	  title="Instagram 😍 Mouctar DIALLO • Software Engineer"
-	  height='55px'
-	  />
-  </a>
+## Social Links
+- [🌐 Website](https://abdoulmouctard.com)
+- [🐥 Twitter](https://twitter.com/abdoulmouctard)
+- [💼 LinkedIn](https://linkedin.com/in/abdoulmouctard)
+- [📸 Instagram](https://instagram.com/abdoulmouctard)
 
-</p>
+If you made it this far, please consider [sponsoring](https://github.com/sponsors/abdoulmouctard) me 😊
+
+<!--
+**abdoulmouctard/abdoulmouctard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+Icons: 👋
+
+-->
