@@ -1,8 +1,9 @@
 # Hello world 👋
 
 
-## Projects I am working on
+## I am working on
 - ⚡ [@yazida-io](https://www.github.com/yazida-io)
+- On myself 🤺
 
 ## Social Links
 - [🌐 Website](https://abdoulmouctard.com)
