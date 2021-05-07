@@ -1,15 +1,19 @@
 # Hello world 👋
 
 
-## I am working on
-- ⚡ [@yazida-io](https://www.github.com/yazida-io)
-- On myself 🤺
+## 🗂 I am working on
+- 🤺 | On myself
+- ⚡ | [@yazida-io](https://www.github.com/yazida-io)
 
-## Social Links
-- [🌐 Website](https://abdoulmouctard.com)
-- [🐥 Twitter](https://twitter.com/abdoulmouctard)
-- [💼 LinkedIn](https://linkedin.com/in/abdoulmouctard)
-- [📸 Instagram](https://instagram.com/abdoulmouctard)
+## 🌱 I’m currently learning
+- 😍 | UX / UI Design
+- 🤖 | Machine Learning
+
+## 🔗 Social Links
+- [🌐 | Website](https://abdoulmouctard.com)
+- [🐥 | Twitter](https://twitter.com/abdoulmouctard)
+- [💼 | LinkedIn](https://linkedin.com/in/abdoulmouctard)
+- [📸 | Instagram](https://instagram.com/abdoulmouctard)
 
 If you made it this far, please consider [sponsoring](https://github.com/sponsors/abdoulmouctard) me 😊
 
