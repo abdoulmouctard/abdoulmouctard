@@ -1,15 +1,16 @@
 # Hello world 👋
+My name is **Abdoul Mouctar DIALLO**, I am a Software Engineer, Web Artisan & Machine Learning Enthusiast.
+And I like sharing my knowledge
 
-
-## 🗂 I am working on
-- 🤺 | On myself
+## I'm working on
 - ⚡ | [@yazida-io](https://www.github.com/yazida-io)
 
-## 🌱 I’m currently learning
+## I’m currently learning
 - 😍 | UX / UI Design
 - 🤖 | Machine Learning
+- 📚 | Reading books
 
-## 🔗 Social Links
+## Social Links
 - [🌐 | Website](https://abdoulmouctard.com)
 - [🐥 | Twitter](https://twitter.com/abdoulmouctard)
 - [💼 | LinkedIn](https://linkedin.com/in/abdoulmouctard)
