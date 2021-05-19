@@ -1,7 +1,16 @@
-# Hello world 👋
-My name is **Abdoul Mouctar DIALLO**, I am a Software Engineer, Web Artisan & Machine Learning Enthusiast.
-And I like sharing my knowledge
 
+<h1 align="center">
+  Hello world 👋
+</h1>
+
+<p align="center">
+  My name is <strong>Abdoul Mouctar DIALLO </strong> <br/> I am a Software Engineer, Machine Learning Enthusiast And I like sharing my knowledge
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulmouctard&theme=radical&langs_count=6&layout=compact"><img alt="Abdoulmouctard Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulmouctard&theme=radical&langs_count=6&layout=compact" /></a>
+ </p>
+ 
 ## I'm working on
 - ⚡ | [@yazida-io](https://www.github.com/yazida-io)
 
