@@ -10,17 +10,9 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulmouctard&theme=radical&langs_count=6&layout=compact"><img alt="Abdoulmouctard Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulmouctard&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
- 
-## I'm working on
-- ⚡ | [@yazida-io](https://www.github.com/yazida-io)
-
-## I’m currently learning
-- 😍 | UX / UI Design
-- 🤖 | Machine Learning
-- 📚 | Reading books
 
 ## Social Links
-- [🌐 | Website](https://abdoulmouctard.com)
+- [📽 | Youtube](https://www.youtube.com/channel/UC-HdwNl_cOsfwJTFOz0Is4g)
 - [🐥 | Twitter](https://twitter.com/abdoulmouctard)
 - [💼 | LinkedIn](https://linkedin.com/in/abdoulmouctard)
 - [📸 | Instagram](https://instagram.com/abdoulmouctard)
